@@ -1,1 +1,6 @@
-# Ensemble-based-Credit-Card-fraud-detection-system
+The project is Credit Card anomaly detection system using Machine Learning 
+All models are trained using Kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+We got better results by using Ensemble learning techiques
+The rearch paper of this project is accepted under IEEE conference: http://icscc.net
+The code of this project is subject to copyright. Code cannot be copied or distributed or altered for any personal gain or industrial profit. 
+Reserach paper: https://ieeexplore.ieee.org/document/10335075 
